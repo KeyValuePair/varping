@@ -2,17 +2,19 @@
   "name": "varping",
   "main": "./lib/varping",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Vaping varping!",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "varping:toggle"
   },
-  "repository": "https://github.com/atom/varping",
+  "repository": "https://github.com/KeyValuePair/varping",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+      "request" : "2.72.0",
+      "underscore" : "1.8.3"
   }
 }
