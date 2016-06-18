@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle varping",
+        "command": "varping:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "varping",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "varping:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
