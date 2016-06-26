@@ -1,5 +1,7 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "varping:toggle"
+    "ctrl-alt-o": "varping:toggle",
+    "ctrl-alt-down": "varping:downward",
+    "ctrl-alt-up": "varping:upward"
   }
 }

@@ -6,7 +6,9 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "varping:toggle"
+    "atom-workspace": ["varping:toggle",
+        "varping:downward",
+        "varping:upward"]
   },
   "repository": "https://github.com/KeyValuePair/varping",
   "license": "MIT",
